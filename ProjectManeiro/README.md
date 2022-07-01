@@ -10,7 +10,7 @@ git checkout class_25
 
 ```
 
-- Crear y activar entorno virtual (Windows)
+- Crear y activar entorno virtual (Windows) (BORRARESTE MENSAJE)
 ```bash
 C:\>python -m venv c:\ruta\al\entorno\virtual
 C:\>c:\ruta\al\entorno\virtual\scripts\activate.bat
